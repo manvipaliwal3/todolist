@@ -15,12 +15,13 @@ h1 {
   color: rgb(23, 14, 104);
   font-size: 3rem;
   text-align: center;
+  
 }
 
 form {
   box-shadow: 0 5px 12px rgba(151, 150, 150, 0.1);
   max-width: 100%;
-  width: 400px;
+  width: 450px;
 }
 
 .input {
